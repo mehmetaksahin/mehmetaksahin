@@ -5,6 +5,8 @@
 A professional and versatile software developer with a knack
 for problem-solving. Software developer experienced Web, Mobile, Desktop, IT systems and complex systems with high-performance requirements. Experienced Web Developer adept in all stages of advanced web development. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
+![snake gif](https://github.com/mehmetaksahin/mehmetaksahin/blob/output/github-contribution-grid-snake.gif)
+
 Skills: Microservices / Serverless / AWS / JAVA / Spring ...
 
 - 🔭 I’m currently working on Testinium & Loadium & Oobeya 
