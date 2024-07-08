@@ -5,8 +5,6 @@
 A professional and versatile software developer with a knack
 for problem-solving. Software developer experienced Web, Mobile, Desktop, IT systems and complex systems with high-performance requirements. Experienced Web Developer adept in all stages of advanced web development. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
-![snake gif](https://github.com/mehmetaksahin/mehmetaksahin/blob/output/github-contribution-grid-snake.gif)
-
 Skills: Microservices / Serverless / AWS / JAVA / Spring ...
 
 - 🔭 I’m currently working on Testinium & Loadium & Oobeya 
@@ -19,16 +17,6 @@ Skills: Microservices / Serverless / AWS / JAVA / Spring ...
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mehmetaksahin)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetaksahin)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetaksahin&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehmetaksahin)  
-
-![GitHub metrics](https://metrics.lecoq.io/mehmetaksahin)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mehmetaksahin)  
-
-![Profile views](https://gpvc.arturio.dev/mehmetaksahin)  
